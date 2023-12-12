@@ -3,18 +3,10 @@
 
   <!-- First URL -->
   <url>
-    <loc>https://www.example.com/page1.html</loc>
+    <loc>https://grees-enter.github.io/demo/index.html</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-
-  <!-- Second URL -->
-  <url>
-    <loc>https://www.example.com/page2.html</loc>
-    <lastmod>2023-02-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
 
 </urlset>
